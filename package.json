@@ -2,8 +2,10 @@
   "name": "satyam-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://your-username.github.io/satyam-portfolio",
+  "homepage": "https://dev-satyam.github.io/satyam-portfolio",
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.14.0",
     "@mui/icons-material": "^5.14.0",
     "framer-motion": "^10.15.1",
