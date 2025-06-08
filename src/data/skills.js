@@ -1,0 +1,21 @@
+const skills = [
+  "Laravel",
+  "Symfony",
+  "CodeIgniter",
+  "Node.js",
+  "ReactJS",
+  "Redux",
+  "JavaScript",
+  "PostgreSQL",
+  "MySQL",
+  "MongoDB",
+  "Redis",
+  "AWS",
+  "Firebase",
+  "Docker",
+  "HTML",
+  "CSS",
+  "Git",
+  "Jenkins",
+];
+export default skills;
