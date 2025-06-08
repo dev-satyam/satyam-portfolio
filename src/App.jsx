@@ -67,7 +67,7 @@ export default function Portfolio() {
       <Box textAlign="center" mb={6}>
         <Avatar
           alt="Satyam Verma"
-          src="https://avatars.githubusercontent.com/u/your-github-id"
+          src="https://avatars.githubusercontent.com/u/dev-satyam"
           sx={{ width: 120, height: 120, mx: "auto", mb: 2 }}
         />
         <Typography variant="h4" fontWeight={700} gutterBottom>
@@ -86,7 +86,7 @@ export default function Portfolio() {
             Email
           </Button>
           <Button
-            href="https://github.com/your-github-id"
+            href="https://github.com/dev-satyam"
             startIcon={<GitHub />}
             variant="outlined"
             sx={{ mx: 1 }}
